@@ -1,0 +1,32 @@
+_repo: A-Comedy-of-Masks--A-Novel_16703
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Moore, Arthur
+    birthdate: 1866
+    deathdate: 1952
+    gutenberg_agent_id: '6877'
+    url: http://www.gutenberg.org/2009/agents/6877
+  - agent_name: Dowson, Ernest Christopher
+    birthdate: 1867
+    deathdate: 1900
+    gutenberg_agent_id: '2775'
+    url: http://www.gutenberg.org/2009/agents/2775
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Dowson
+description: ''
+gutenberg_issued: '2005-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'A Comedy of Masks: A Novel'
+url: http://www.gutenberg.org/ebooks/16703
